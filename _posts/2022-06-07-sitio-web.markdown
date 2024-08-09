@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Sitio web"
+date:   2022-06-07 15:00:00 -0300
+categories: general
+---
+Hoy estrenamos el sitio web. Se necesitan jugadores de ajedrez para el [equipo de Lichess](https://lichess.org/team/memorial-margarita) y sugerencias de [organizaciones](/organizaciones.html) a la que destinar los premios.
