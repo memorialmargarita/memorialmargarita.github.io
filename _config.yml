@@ -32,6 +32,7 @@ github_username:  memorialmargarita
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 # Google Analytics
 google_analytics: G-WB85H8Y33E
