@@ -32,12 +32,9 @@ github_username:  memorialmargarita
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-analytics
 
-jekyll_analytics:
-  GoogleAnalytics:          # Add, if you want to track with Google Analytics
-    id: G-WB85H8Y33E        # Required - replace with your tracking id
-    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
+# Google Analytics
+google_analytics: G-WB85H8Y33E
 
 # Exclude from processing.
 # The following items will not be processed, by default.
