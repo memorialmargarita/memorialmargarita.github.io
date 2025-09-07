@@ -20,16 +20,17 @@
 
 title: Memorial Margarita
 #email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Ajedrez reivindicativo y solidario.
 domain: memorialmargarita.github.io
+description: >- # this means to ignore newlines until "baseurl:"
+  Ajedrez reivindicativo.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://memorialmargarita.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jusxmargarita
-github_username:  memorialmargarita
+github_username: memorialmargarita
 
 # Build settings
-theme: minima
+theme: just-the-docs
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap
@@ -46,7 +47,7 @@ google_analytics: G-WB85H8Y33E
 # their entries' file path in the `include:` list.
 #
 exclude:
-  - memorialmargarita.code-workspace
+  - .code-workspace
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
