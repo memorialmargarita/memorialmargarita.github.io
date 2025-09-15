@@ -1,0 +1,5 @@
+site_name: Memorial Margarita
+theme:
+  name: readthedocs
+  locale: es
+use_directory_urls: false
